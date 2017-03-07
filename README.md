@@ -1,5 +1,5 @@
 # Reading Instruction Workbook
-This .pdf (https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf) goes with these videos (https://www.youtube.com/playlist?list=PLF37AD70E260F17FB).
+This .pdf (https://github.com/cboosalis/RICA/blob/master/RICA-NOTEBOOK-1.pdf) goes with these videos (https://www.youtube.com/playlist?list=PLF37AD70E260F17FB). You can also find a book that covers the content here: https://www.amazon.com/Beating-Elementary-Literacy-Instruction-Certification/dp/0205394728/ref=sr_1_1?ie=UTF8&qid=1488920609&sr=8-1&keywords=boosalis
 
 After following the link to the .pdf, just click download and the file should...download. 
 
